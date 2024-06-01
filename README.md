@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=Diptomodak32&color=red)
 
 Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
@@ -16,7 +16,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning Golang, Java, C++
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
+- 👨‍💻 All of my projects are available at [https://github.com/dipto32](https://github.com/dipto32)
 
 - 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
 
